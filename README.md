@@ -1,4 +1,4 @@
-# Java-Apna-College
+# Java-DSA
 
 # Java Programming Playground
 
