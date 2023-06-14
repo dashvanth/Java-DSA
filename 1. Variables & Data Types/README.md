@@ -1,4 +1,4 @@
-Topics covered in this chapter:
+The Topics covered in this chapter:
 
 - Creating a javafile.
 - Boilerplate Code.
