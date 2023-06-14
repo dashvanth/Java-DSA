@@ -12,7 +12,8 @@ Stay tuned for daily updates on my Java learning journey. Each day, I will be sh
 
 In this repository, you'll find a variety of Java topics and concepts that I'm diving into, 
 
-- 
+- 01. Variables & Datatypes.
+- 02. Operators.
 
 ## Projects
 
