@@ -1,4 +1,5 @@
-The Day-01 Learnings are:
+Topics covered in this chapter:
+
 - Creating a javafile.
 - Boilerplate Code.
 - Output Statemnt in java.
