@@ -15,6 +15,7 @@ In this repository, you'll find a variety of Java topics and concepts that I'm d
 - 01. Variables & Datatypes.
 - 02. Operators.
 - 03. Conditional Statements.
+- 04. Loops (Flow Control).
 
 ## Projects
 
