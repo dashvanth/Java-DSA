@@ -17,6 +17,7 @@ In this repository, you'll find a variety of Java topics and concepts that I'm d
 - 03. Conditional Statements.
 - 04. Loops (Flow Control).
 - 05. Patterns (Part - 1).
+- 06. Functions & Methods.
 
 ## Projects
 
