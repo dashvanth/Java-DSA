@@ -19,6 +19,7 @@ In this repository, you'll find a variety of Java topics and concepts that I'm d
 - 05. Patterns (Part - 1).
 - 06. Functions & Methods.
 - 07. Patterns Advanced (Part - 2).
+- 08. Arrays.
 
 ## Projects
 
