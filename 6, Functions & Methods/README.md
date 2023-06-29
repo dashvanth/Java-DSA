@@ -6,3 +6,9 @@
 - Swapping of 2 numbers.
 - Factorial of a number.
 - Binomial-Coefficient of a number.
+- Function Overloading.
+- Function Overloading using Parameters.
+- Function Overloading using datatypes.
+- Prime Number using function.
+- Prime Number (Optimised code).
+- Prime Numbers in range.
